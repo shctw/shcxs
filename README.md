@@ -53,7 +53,7 @@ Value1 = 3.14159
 
   條件判斷是最常使用的一種流程控制，會依執行的順序依序判斷，符合後即條出。XSscript提供以下三種條件判斷式：
 
-  [If Then Else](#if-then-else)
+  [If Then Else](#ifthenelse)
 
   Switch Case Default
 
